@@ -12,3 +12,6 @@
 [1001/233918.898:ERROR:file_io_win.cc(179)] CreateFile C:\Users\TIENTU~1\AppData\Local\Temp\scoped_dir1876_1407\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
 [1001/234138.183:ERROR:file_io_win.cc(179)] CreateFile C:\Users\TIENTU~1\AppData\Local\Temp\scoped_dir20164_28027\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
 [1002/005443.480:ERROR:file_io_win.cc(179)] CreateFile C:\Users\TIENTU~1\AppData\Local\Temp\scoped_dir14980_1631\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1003/203833.490:ERROR:file_io_win.cc(179)] CreateFile C:\Users\TIENTU~1\AppData\Local\Temp\scoped_dir9076_21529\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1003/203913.778:ERROR:file_io_win.cc(179)] CreateFile C:\Users\TIENTU~1\AppData\Local\Temp\scoped_dir6316_14408\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1003/204222.687:ERROR:file_io_win.cc(179)] CreateFile C:\Users\TIENTU~1\AppData\Local\Temp\scoped_dir1748_29591\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
