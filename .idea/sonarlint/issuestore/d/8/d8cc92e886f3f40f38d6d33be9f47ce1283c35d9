@@ -1,7 +1,0 @@
-
-Vsquid:S14812"3Remove this unused "rightPossition" local variable.(‡Ó“©øÿÿÿÿ8µ¹Íã,
-Msquid:S2201;"*The return value of "equals" must be used.(ÿ«óÇøÿÿÿÿ8€ÍëÔá,
-Qsquid:UselessParenthesesCheck:"!Remove these useless parentheses.(şà÷¬8ÇşÔá,
-Vsquid:S1481@"3Remove this unused "rightPossition" local variable.(‡Ó“©øÿÿÿÿ8µ¹Íã,
-Psquid:S1481?"2Remove this unused "slectionStart" local variable.(¶ùÕğ8µ¹Íã,
-Vsquid:S14811"3Remove this unused "selectionStart" local variable.(êÕ÷éúÿÿÿÿ8µ¹Íã,
